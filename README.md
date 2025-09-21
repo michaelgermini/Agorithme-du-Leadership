@@ -1,8 +1,8 @@
 # L'Algorithme du Leadership : Coder la Conscience de Soi
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/l-algorithme-du-leadership.svg)](https://github.com/your-username/l-algorithme-du-leadership/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/l-algorithme-du-leadership.svg)](https://github.com/your-username/l-algorithme-du-leadership/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/michaelgermini/Agorithme-du-Leadership.svg)](https://github.com/michaelgermini/Agorithme-du-Leadership/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/michaelgermini/Agorithme-du-Leadership.svg)](https://github.com/michaelgermini/Agorithme-du-Leadership/network/members)
 
 ## Description
 
