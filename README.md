@@ -108,7 +108,7 @@ Ce livre est open-source ! Suggestions :
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Auteur
-**Mika** - Développeur passionné par le leadership algorithmique. Contact : [votre-email@example.com]
+**Mika** - Développeur passionné par le leadership algorithmique. Contact : [michael@germini.info]
 
 ## Remerciements
 Merci à la communauté open-source et aux penseurs comme Simon Sinek, Daniel Kahneman et Vitalik Buterin pour l'inspiration.
