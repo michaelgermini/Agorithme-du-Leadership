@@ -168,3 +168,7 @@ Ce chapitre a démontré comment traiter les inputs du Chapitre 1 en une pensée
 **Réponses :** 1. B, 2. B, 3. B, 4. B, 5. B.
 
 **Score :** 5/5 = Penseur clair ; 3-4 = En progrès ; <3 = Pratiquez le filtrage.
+
+---
+
+[← Chapitre Précédent](chapitre_1_input_la_conscience_de_soi.md) | [Chapitre Suivant →](chapitre_3_output_l_action_alignee.md) | [Table des Matières](SUMMARY.md)

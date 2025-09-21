@@ -152,3 +152,7 @@ Dans ce chapitre, nous avons vu que la conscience de soi est le premier module d
 **Réponses :** 1. B (L'input collecte les données brutes comme émotions), 2. B (Journal pour noter), 3. A (Évite impulsivité), 4. A (Stress commun), 5. A (Script fourni).
 
 **Score :** Comptez vos bonnes réponses. 5/5 = Maître de l'input ; 3-4 = Bon ; <3 = À pratiquer.
+
+---
+
+[Chapitre Suivant →](chapitre_2_traitement_la_pensee_claire.md) | [Table des Matières](SUMMARY.md)

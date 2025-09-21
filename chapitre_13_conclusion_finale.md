@@ -146,3 +146,7 @@ Ce chapitre final a intégré les 12 modules en un algorithme ultime en 12 étap
 **Réponses :** 1. C, 2. A.
 
 **Score :** 2/2 = Leader ultime ; 1 = Continuez le parcours.
+
+---
+
+[← Chapitre Précédent](chapitre_12_blockchain_ksa.md) | [Table des Matières](SUMMARY.md)
