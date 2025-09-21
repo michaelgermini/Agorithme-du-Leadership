@@ -132,3 +132,7 @@ Ce chapitre a décrit le leadership distribué en 8 étapes : identifier rôles,
 **Réponses :** 1. B, 2. A.
 
 **Score :** 2/2 = Distribué efficace ; 1 = Centralisé.
+
+---
+
+[← Chapitre Précédent](chapitre_7_debugger_sa_vie.md) | [Chapitre Suivant →](chapitre_9_l_optimisation_continue.md) | [Table des Matières](SUMMARY.md)

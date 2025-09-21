@@ -25,3 +25,7 @@ Warren Buffett, investisseur légendaire, applique l'éthique via son algorithme
 - Site : [ethics.org](https://www.ethics.org).
 
 **Lien avec le livre :** Renforce Chapitres 1, 3, 6.
+
+---
+
+[← Outils Précédents](outils_auto_evaluation.md) | [Table des Matières](SUMMARY.md) | [Diversité Suivante →](annexe_diversite_entreprise.md)

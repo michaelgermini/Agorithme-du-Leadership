@@ -55,3 +55,7 @@ Identifiez 3 bugs et notez fréquence : ____ (Réduire <3).
 
 ## Évaluation globale : Leadership ultime (Chapitre 12)
 Score total modules : ____/120 (Interprétation : >90 = Leader ultime).
+
+---
+
+[← Annexes Précédentes](annexes.md) | [Table des Matières](SUMMARY.md) | [Éthique Suivante →](annexe_leadership_ethique.md)

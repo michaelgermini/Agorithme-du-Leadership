@@ -96,3 +96,7 @@
 - Valeur : Chapitre 3
 - Variable : Chapitre 5
 - Vision : Chapitre 11
+
+---
+
+[← Glossaire Précédent](glossaire.md) | [Table des Matières](SUMMARY.md) | [Annexes Suivantes →](annexes.md)

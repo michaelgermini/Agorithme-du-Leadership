@@ -66,5 +66,9 @@ Kodak, géant de la photographie, a détecté les signes de stagnation avec l'av
 📈 OBJECTIF : Croissance durable
 ```
 
-💡 **L'objectif :** transformer la stagnation en opportunité d'innovation, en intégrant des processus algorithmiques dans la gestion d'entreprise.  
+💡 **L'objectif :** transformer la stagnation en opportunité d'innovation, en intégrant des processus algorithmiques dans la gestion d'entreprise.
 **Message clé du chapitre :** L'innovation face à la stagnation est un algorithme continu : détecter, innover, implémenter, mesurer. Une entreprise qui code l'innovation dans sa gestion devient résiliente et leader dans son domaine.
+
+---
+
+[← Chapitre Précédent](chapitre_10_synthese_intermediaire.md) | [Chapitre Suivant →](chapitre_12_blockchain_ksa.md) | [Table des Matières](SUMMARY.md)

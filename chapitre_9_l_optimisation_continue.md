@@ -126,3 +126,7 @@ Ce chapitre a présenté l'optimisation continue en 7 étapes : collecter donné
 **Réponses :** 1. A, 2. A.
 
 **Score :** 2/2 = Optimisé ; 1 = À améliorer.
+
+---
+
+[← Chapitre Précédent](chapitre_8_leadership_distribue.md) | [Chapitre Suivant →](chapitre_10_synthese_intermediaire.md) | [Table des Matières](SUMMARY.md)

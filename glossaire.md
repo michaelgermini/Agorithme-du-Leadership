@@ -62,3 +62,7 @@
 
 ## V
 - **Variables** : Éléments changeants dans un problème complexe, à identifier et gérer (Chapitre 5).
+
+---
+
+[Table des Matières](SUMMARY.md) | [Index Suivant →](index.md)

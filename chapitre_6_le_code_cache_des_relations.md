@@ -147,3 +147,7 @@ Ce chapitre a présenté le code caché des relations via un algorithme en 6 ét
 **Réponses :** 1. A, 2. A.
 
 **Score :** 2/2 = Réseau optimisé ; 1 = À renforcer.
+
+---
+
+[← Chapitre Précédent](chapitre_5_complexite_et_leadership.md) | [Chapitre Suivant →](chapitre_7_debugger_sa_vie.md) | [Table des Matières](SUMMARY.md)

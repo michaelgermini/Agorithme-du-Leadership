@@ -66,3 +66,7 @@ def certifier_atelier(participant, atelier_id, score):
 ```
 
 Cette idée transforme les ateliers en expérience gamifiée et vérifiable, alignée avec l'esprit algorithmique du livre.
+
+---
+
+[← Index Précédent](index.md) | [Table des Matières](SUMMARY.md) | [Outils Suivants →](outils_auto_evaluation.md)

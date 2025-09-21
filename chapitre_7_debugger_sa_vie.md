@@ -135,3 +135,7 @@ Ce chapitre a couvert le debugging personnel en 5 étapes : identifier comportem
 **Réponses :** 1. B, 2. A.
 
 **Score :** 2/2 = Debuggé ; 1 = Bugs persistants.
+
+---
+
+[← Chapitre Précédent](chapitre_6_le_code_cache_des_relations.md) | [Chapitre Suivant →](chapitre_8_leadership_distribue.md) | [Table des Matières](SUMMARY.md)

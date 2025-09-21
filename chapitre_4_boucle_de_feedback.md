@@ -164,3 +164,7 @@ Ce chapitre a présenté la boucle de feedback en 5 étapes : observer, comparer
 **Réponses :** 1. B, 2. A, 3. B, 4. A, 5. B.
 
 **Score :** 5/5 = Maître feedback ; 3-4 = Apprenti ; <3 = Pratiquez l'itération.
+
+---
+
+[← Chapitre Précédent](chapitre_3_output_l_action_alignee.md) | [Chapitre Suivant →](chapitre_5_complexite_et_leadership.md) | [Table des Matières](SUMMARY.md)

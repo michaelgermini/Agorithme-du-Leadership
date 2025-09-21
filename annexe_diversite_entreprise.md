@@ -25,3 +25,7 @@ Indra Nooyi, ex-CEO de PepsiCo, a promu la diversité : équipes inclusives, dé
 - Site : [diversityinc.com](https://www.diversityinc.com).
 
 **Lien avec le livre :** Complète Chapitres 5, 6, 8.
+
+---
+
+[← Éthique Précédente](annexe_leadership_ethique.md) | [Table des Matières](SUMMARY.md) | [Durable Suivante →](annexe_leadership_durable.md)

@@ -171,3 +171,7 @@ Dans ce chapitre, nous avons vu comment la blockchain révolutionne le KSA en cr
 **Réponses :** 1. B, 2. B, 3. B, 4. B, 5. B.
 
 **Score :** 5/5 = Maître blockchain ; 3-4 = En progrès ; <3 = Explorez plus.
+
+---
+
+[← Chapitre Précédent](chapitre_11_innovation_face_a_la_stagnation.md) | [Chapitre Suivant →](chapitre_13_conclusion_finale.md) | [Table des Matières](SUMMARY.md)

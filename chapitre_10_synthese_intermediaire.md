@@ -146,3 +146,7 @@ Ce chapitre a synthétisé les 9 premiers modules en un algorithme final en 10 �
 **Réponses :** 1. B, 2. A.
 
 **Score :** 2/2 = Synthèse maîtrisée ; 1 = Révisez.
+
+---
+
+[← Chapitre Précédent](chapitre_9_l_optimisation_continue.md) | [Chapitre Suivant →](chapitre_11_innovation_face_a_la_stagnation.md) | [Table des Matières](SUMMARY.md)

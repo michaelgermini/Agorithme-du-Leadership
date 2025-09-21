@@ -149,3 +149,7 @@ Ce chapitre a enseigné à gérer la complexité via un algorithme en 7 étapes 
 **Réponses :** 1. B, 2. A, 3. A.
 
 **Score :** 3/3 = Complexité maîtrisée ; 2 = En progrès ; 1 = À décomposer plus.
+
+---
+
+[← Chapitre Précédent](chapitre_4_boucle_de_feedback.md) | [Chapitre Suivant →](chapitre_6_le_code_cache_des_relations.md) | [Table des Matières](SUMMARY.md)

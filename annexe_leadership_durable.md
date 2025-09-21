@@ -25,3 +25,7 @@ Elon Musk intègre durabilité dans son algorithme : conscience de soi (changeme
 - Site : [un.org/sustainabledevelopment](https://www.un.org/sustainabledevelopment).
 
 **Lien avec le livre :** Étend Chapitres 5, 9, 11.
+
+---
+
+[← Diversité Précédente](annexe_diversite_entreprise.md) | [Table des Matières](SUMMARY.md)

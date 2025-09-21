@@ -160,3 +160,7 @@ Ce chapitre a couvert l'output de l'algorithme : vérifier l'alignement des acti
 **Réponses :** 1. B, 2. B, 3. A, 4. B, 5. B.
 
 **Score :** 5/5 = Actionnaire aligné ; 3-4 = Bon potentiel ; <3 = Travaillez l'alignement.
+
+---
+
+[← Chapitre Précédent](chapitre_2_traitement_la_pensee_claire.md) | [Chapitre Suivant →](chapitre_4_boucle_de_feedback.md) | [Table des Matières](SUMMARY.md)
